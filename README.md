@@ -7,9 +7,7 @@
 - Maîtriser les différentes architectures Big Data, leurs composants et caractéristiques
 - Savoir concevoir une architecture adaptée à un besoin métier en Big Data
 - Découvrir les solutions de déploiement et mise en production des applications Big Data
-## Séance 1 : Jour 1 – matin : Concepts clés et régulation
-
-**Durée :** 4 heures
+## Séance 1 : Concepts clés et régulation
 
 ### Objectifs pédagogiques
 
@@ -31,9 +29,7 @@
 
 - Principes de confidentialité et importance de l'anonymisation des données.
 - Présentation et implications du RGPD pour la collecte et le traitement des données personnelles.
-## Séance 2 : Jour 1 – après-midi : Architectures Big Data et exigences
-
-**Durée :** 4 heures
+## Séance 2 : Architectures Big Data et exigences
 
 ### Objectifs pédagogiques
 
@@ -52,9 +48,7 @@
 
 - Définition et fonctionnement de l’architecture Lambda, ses forces et faiblesses.
 - Définition et fonctionnement de l’architecture Kappa, ses forces et faiblesses.
-## Séance 3 : Jour 2 – matin : Approfondissement des architectures avancées
-
-**Durée :** 4 heures
+## Séance 3 : Approfondissement des architectures avancées
 
 ### Objectifs pédagogiques
 
@@ -72,9 +66,7 @@
 #### Atelier mini-étude de cas
 
 - Travail en groupe pour proposer une architecture Big Data pour un cas d’usage donné, intégrant les notions vues et justifiant les choix.
-## Séance 4 : Jour 2 – après-midi : Déploiement et prototype
-
-**Durée :** 4 heures
+## Séance 4 : Déploiement et prototype
 
 ### Objectifs pédagogiques
 
