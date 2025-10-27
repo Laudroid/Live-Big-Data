@@ -1,6 +1,3 @@
-Voici une proposition de sujet de TP, conçue pour être pragmatique et directement applicable, tout en intégrant l'usage de l'IA comme un outil d'aide à la réflexion.
-
----
 
 ## TP : Analyse de Besoin Métier Big Data pour la Chaîne MegaMarket
 
