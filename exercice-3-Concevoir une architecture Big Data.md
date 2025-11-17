@@ -17,7 +17,7 @@ Une grande chaîne de magasins de détail, **"OmniShop"**, souhaite transformer 
 **Sources de données disponibles :**
 
 *   **Transactions de vente :** En ligne et en magasin (produits achetés, prix, date, heure, magasin/canal, client ID).
-*   **Comportement utilisateur e-commerce :** Clics, pages vues, produits ajoutés au panier, recherches (logs web, événements).
+*   **Comportement utilisateur e-commerce :** Clics, pages vues, produits ajoutés au panier, recherches (outils de web analyse).
 *   **Données d'inventaire :** Stock en temps réel par magasin et entrepôt.
 *   **Données clients :** Profils, historique d'achats, adhésion au programme de fidélité.
 *   **Interactions sur les réseaux sociaux :** Mentions de la marque, avis sur les produits (données non structurées).
